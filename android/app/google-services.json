@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "258642770006",
+    "firebase_url": "https://speakme-d667b.firebaseio.com",
+    "project_id": "speakme-d667b",
+    "storage_bucket": "speakme-d667b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258642770006:android:206864e43219e2036d23f7",
+        "android_client_info": {
+          "package_name": "com.eriwang.speackme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258642770006-f6b91jcs1e1aclfudunr2f2u2ldabhkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQYcPdkidR8hHGeh7veuA8KKAG1XHwDhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258642770006-f6b91jcs1e1aclfudunr2f2u2ldabhkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
